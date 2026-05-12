@@ -11,4 +11,7 @@ print("hola Mundo")
 print("Probando brands")
 
 
-print("Mejora 1")
+print("Mejora 2")
+print("Mejora 3")
+print("Mejora 5")
+print("Mejora 6")
