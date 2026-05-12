@@ -6,3 +6,6 @@ def fibonacci(num):
     print()
 
 fibonacci(10)
+
+print("hola Mundo")
+print("skibidi")
